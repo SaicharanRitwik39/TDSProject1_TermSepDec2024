@@ -1,4 +1,4 @@
 # TDSProject1_TermSepDec2024
-- How I scraped the data: Used the GitHub API to fetch user and repository details for Mumbai-based users with over 50 followers.
-- Interesting finding: 
-- Actionable recommendation: 
+- Data was scraped using the GitHub API by filtering users in Mumbai with over 50 followers and retrieving information on their public repositories.
+- Surprisingly, the length of a user’s bio shows a slight negative association with the number of followers they have.
+- Developers aiming to increase engagement may benefit from concise bios rather than overly long descriptions.
